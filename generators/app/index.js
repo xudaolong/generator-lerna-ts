@@ -86,7 +86,7 @@
 
     install() {
       process.chdir(this.destinationPath("../" + projectName));
-      this.npmInstall();
+      this.yarnInstall();
     }
   };
 })();

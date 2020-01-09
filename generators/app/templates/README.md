@@ -1,4 +1,4 @@
-# <%= appname %>
+# <%= packageName %>
 
 ## Command
 
