@@ -1,0 +1,31 @@
+{
+  "name": "generator-lerna-ts",
+  "version": "0.0.1",
+  "description": "Scaffold monorepos with Lerna and TypeScript tooling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xudaolong/generator-lerna-ts.git"
+  },
+  "keywords": [
+    "lerna",
+    "typescript",
+    "babel",
+    "yeoman-generator"
+  ],
+  "author": "dillon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xudaolong/generator-lerna-ts/issues"
+  },
+  "homepage": "https://github.com/xudaolong/generator-lerna-ts#readme",
+  "dependencies": {
+    "yeoman-generator": "3.2.0"
+  },
+  "devDependencies": {
+    "release-it": "^10.0.7"
+  }
+}
