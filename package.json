@@ -1,6 +1,6 @@
 {
   "name": "generator-lerna-ts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Scaffold monorepos with Lerna and TypeScript tooling",
   "main": "index.js",
   "scripts": {
