@@ -11,20 +11,20 @@ yo generator-lerna-ts
 
 # Integration
 
-## Dev
+Development
 - [typescript](https://www.typescriptlang.org/)
 - [sao](https://github.com/saojs/sao)
 - [eslint](https://eslint.org/)
-- [prettier](https://eslint.org/)
+- [prettier](https://prettier.io/)
 
-## Testing
-- [jest](https://eslint.org/)
+Testing
+- [jest](https://jestjs.io/)
 
-## Present
-- [storybook](https://eslint.org/)
+Present
+- [storybook](https://storybook.js.org/)
 
-## Release
-- [semantic-release](https://eslint.org/)
-- [lerna](https://eslint.org/)
+Release
+- [semantic-release](https://github.com/semantic-release/semantic-release)
+- [lerna](https://github.com/lerna/lerna)
 
 Good lucky.
